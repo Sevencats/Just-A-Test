@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/timer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Timer" />
+
+    <Button
+        android:id="@+id/recycler"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Recycler" />
+
+    <Button
+        android:id="@+id/rxbus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="RxBus" />
+
+    <Button
+        android:id="@+id/viewPager"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="View Pager" />
+
+
+    <Button
+        android:id="@+id/taoBao"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tao Bao" />
+
+</LinearLayout>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ViewModel-master.iml" filepath="$PROJECT_DIR$/.idea/ViewModel-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recyclerviewmodel/recyclerviewmodel.iml" filepath="$PROJECT_DIR$/recyclerviewmodel/recyclerviewmodel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewmodel/viewmodel.iml" filepath="$PROJECT_DIR$/viewmodel/viewmodel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewpagermodel/viewpagermodel.iml" filepath="$PROJECT_DIR$/viewpagermodel/viewpagermodel.iml" />
+    </modules>
+  </component>
+</project>
